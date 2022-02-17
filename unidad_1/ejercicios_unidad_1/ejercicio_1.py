@@ -1,0 +1,5 @@
+n1 = int(input("ingrese el primer valor n1: "))
+n2 = int(input("ingrese el segundo valor n2: "))
+n3 = int(input("ingrese el tercer valor n3: "))
+print("El producto entre n1 y n2 es: ", n1 * n2)
+print("La suma de n3 con el producto anterior es: ", n1 * n2 + n3)
